@@ -1,0 +1,9 @@
+C:\Users\PPP\Documents\GitHub\SmsFuzzerCS\bin\Debug\SmsFuzzerCS.exe.config
+C:\Users\PPP\Documents\GitHub\SmsFuzzerCS\bin\Debug\SmsFuzzerCS.exe
+C:\Users\PPP\Documents\GitHub\SmsFuzzerCS\bin\Debug\SmsFuzzerCS.pdb
+C:\Users\PPP\Documents\GitHub\SmsFuzzerCS\obj\Debug\SmsFuzzerCS.Form1.resources
+C:\Users\PPP\Documents\GitHub\SmsFuzzerCS\obj\Debug\SmsFuzzerCS.Properties.Resources.resources
+C:\Users\PPP\Documents\GitHub\SmsFuzzerCS\obj\Debug\SmsFuzzerCS.csproj.GenerateResource.Cache
+C:\Users\PPP\Documents\GitHub\SmsFuzzerCS\obj\Debug\SmsFuzzerCS.exe
+C:\Users\PPP\Documents\GitHub\SmsFuzzerCS\obj\Debug\SmsFuzzerCS.pdb
+C:\Users\PPP\Documents\GitHub\SmsFuzzerCS\obj\Debug\SmsFuzzerCS.csprojResolveAssemblyReference.cache
